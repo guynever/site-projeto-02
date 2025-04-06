@@ -1,9 +1,20 @@
-# site-projeto-02
- Projeto de site criado no modulo 03 no curso de HTML/CSS do Gustavo Guanabara
+# Projeto Cordel: Desafio do curso de HTML/CSS
 
+Este projeto é um desafio do Módulo 03 do curso de HTML/CSS do Gustavo Guanabara. Transformei o Hino do Município de Maranguape-Ce, escrito por Ofélia Maria Gomes de Matos Mota, em um site interativo.
 
-## Desafio do Cordel
-Nesse desafio, vamos transformar uma poesia em um site, incluindo efeitos de parallax nas imagens aplicadas ao fundo da página.
+**Recursos:**
 
-Para o desafio proposto eu escolhi o hino da cidade de Maranguape-Ce
-Autor(a): Ofélia Maria Gomes de Matos Mota
+* HTML5 para estruturação do conteúdo.
+* CSS3 para estilização e efeitos visuais, incluindo parallax scrolling nas imagens de fundo.
+
+**Tecnologias Utilizadas:**
+
+* HTML5
+* CSS3
+
+**Autor(a) do Hino:** Ofélia Maria Gomes de Matos Mota
+
+**Como Executar:**
+
+1. Clone o repositório.
+2. Abra o arquivo `index.html` em seu navegador.
